@@ -14,7 +14,8 @@ app.use(cors({
         "http://localhost:5500",
         "http://127.0.0.1:5500",
         "https://fictional-funicular-97xgpj5pwjv729554-5500.app.github.dev",
-        "https://leavemanagement-frontend-pi.vercel.app"
+        "https://leavemanagement-frontend-pi.vercel.app",
+        "https://leave-management-system-frontend-ten.vercel.app"
     ]
 }));
 
